@@ -7,6 +7,9 @@ https://devfolio.co/submissions/smart-helmet-1
 Demo Video: 
 https://www.youtube.com/watch?v=hUIvS_oH_4I&ab_channel=CyrilShaji
 
+Notes on our project from the mentors of the hackathon:
+https://drive.google.com/file/d/173RB2xNKiFvSnuxbumCLdEVMNmjmCKKG/view?usp=sharing
+
 A regular helmet is converted into a Smart helmet that has the following 2 features: 
 
 1. Navigation system: Navigation assistance (Directions and distance to the destination) is displayed on the top corner of the visor of the helmet. 

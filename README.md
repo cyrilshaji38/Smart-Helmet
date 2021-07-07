@@ -8,7 +8,7 @@ Demo Video:
 https://www.youtube.com/watch?v=hUIvS_oH_4I&ab_channel=CyrilShaji
 
 Notes on our project from the mentors of the hackathon:
-https://drive.google.com/file/d/173RB2xNKiFvSnuxbumCLdEVMNmjmCKKG/view?usp=sharing
+https://youtu.be/4XBttp0cBW0?t=2360
 
 A regular helmet is converted into a Smart helmet that has the following 2 features: 
 
